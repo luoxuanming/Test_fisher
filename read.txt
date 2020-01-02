@@ -1,0 +1,15 @@
+pip install pipenv 
+
+pipenv install  //安装环境
+
+pip list // 可以查看安装的依赖包
+
+pipenv shell //启动环境
+
+pipenv install flask //安装 flask
+
+flask 检查flask是否安装好 
+
+xampp (MySQL)
+
+Navicat (数据库可视化管理工具)
